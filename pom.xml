@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>n.com.plo</groupId>
-	<artifactId>worldcup18</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>bet-wc-euro</artifactId>
+	<version>1.0.0</version>
 
-	<name>Ncomplo</name>
-	<description>Ncomplo Mundial Rusia 2018</description>
+	<name>Bet WC Euro</name>
+	<description>Bet System for WC and Euro</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
